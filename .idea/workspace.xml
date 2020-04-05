@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc04b810-5ede-461f-936a-97d32d7ba27f" name="Default" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base/Login_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/Login_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base/Tch_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/Tch_test.py" afterDir="false" />
+=======
+>>>>>>> 1c3ea27b412717663ffc9266c868b15e4311daa3
+      <change beforePath="$PROJECT_DIR$/Mission/homework_Resources_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mission/homework_Resources_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/common.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
+      <file leaf-file-name="Stu_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Base/Stu_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+=======
+      <file leaf-file-name="Stu_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Base/Stu_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1938">
+              <caret line="107" column="80" selection-start-line="107" selection-start-column="80" selection-end-line="107" selection-end-column="80" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homework_Resources_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Mission/homework_Resources_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="269" column="54" lean-forward="true" selection-start-line="269" selection-start-column="54" selection-end-line="269" selection-end-column="54" />
+>>>>>>> 1c3ea27b412717663ffc9266c868b15e4311daa3
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file leaf-file-name="common.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+=======
+      <file leaf-file-name="Tchpad_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mission/Tchpad_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2983">
+              <caret line="162" column="37" selection-start-line="162" selection-start-column="37" selection-end-line="162" selection-end-column="37" />
+>>>>>>> 1c3ea27b412717663ffc9266c868b15e4311daa3
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+=======
+      <file leaf-file-name="Stupad_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mission/Stupad_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3705">
+              <caret line="200" column="60" selection-start-line="200" selection-start-column="60" selection-end-line="200" selection-end-column="60" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+>>>>>>> 1c3ea27b412717663ffc9266c868b15e4311daa3
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cub.data</find>
+      <find>cookieLogin</find>
+      <find>cub</find>
+      <find>StringIO</find>
+      <find>CommonUtilBase</find>
+      <find>uo</find>
+      <find>print</find>
+      <find>os</find>
+      <find>io</find>
+      <find>unicode</find>
+      <find>&lt;&gt;</find>
+      <find>suite</find>
+      <find>资源</find>
+      <find>分享</find>
+      <find>查看原题</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Getastask.py" />
+        <option value="G:/下载/apache-jmeter-5.2.1/bin/jmeter.properties" />
+        <option value="$PROJECT_DIR$/login.py" />
+        <option value="$PROJECT_DIR$/Base/login.py" />
+        <option value="$USER_HOME$/Desktop/DHB_Manager_Regression_Test(PreRelease)/src/Forms/areaFormsTest.py" />
+        <option value="$USER_HOME$/Desktop/DHB_Manager_Regression_Test(PreRelease)/src/main.py" />
+        <option value="$USER_HOME$/Desktop/DHB_Manager_Regression_Test(PreRelease)/src/__init__.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/Base/__init__.py" />
+        <option value="$PROJECT_DIR$/Mission/__init__.py" />
+        <option value="$PROJECT_DIR$/Ras/__init__.py" />
+        <option value="$USER_HOME$/Desktop/DHB_Manager_Regression_Test(PreRelease)/src/Goods/BaseBrandTest.py" />
+        <option value="$PROJECT_DIR$/Base/login_test.py" />
+        <option value="$PROJECT_DIR$/Base/Base_test.py" />
+        <option value="$PROJECT_DIR$/Mission/Tchpad.py" />
+        <option value="$PROJECT_DIR$/ss.py" />
+        <option value="$USER_HOME$/Desktop/ss.py" />
+        <option value="$PROJECT_DIR$/email/message.py" />
+        <option value="$PROJECT_DIR$/email/charset.py" />
+        <option value="$PROJECT_DIR$/email/base64mime.py" />
+        <option value="$PROJECT_DIR$/email/utils.py" />
+        <option value="$PROJECT_DIR$/email/quoprimime.py" />
+        <option value="$PROJECT_DIR$/email/iterators.py" />
+        <option value="$PROJECT_DIR$/email/generator.py" />
+        <option value="$PROJECT_DIR$/email/header.py" />
+        <option value="$PROJECT_DIR$/Mission/Stupad.py" />
+        <option value="$PROJECT_DIR$/HTMLTestRunnerCN.py" />
+        <option value="$PROJECT_DIR$/Mission/H_R_test.py" />
+        <option value="$PROJECT_DIR$/Mission/ss.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/Base/Stu_test.py" />
+        <option value="$PROJECT_DIR$/Mission/Tchpad_test.py" />
+        <option value="$PROJECT_DIR$/Mission/Stupad_test.py" />
+        <option value="$PROJECT_DIR$/Base/Tch_test.py" />
+        <option value="$PROJECT_DIR$/Base/Login_test.py" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/common.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1355" />
+=======
+        <option value="$PROJECT_DIR$/Mission/Stupad_test.py" />
+        <option value="$PROJECT_DIR$/Mission/homework_Resources_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="506" />
+    <option name="y" value="85" />
+    <option name="width" value="1351" />
+>>>>>>> 1c3ea27b412717663ffc9266c868b15e4311daa3
+    <option name="height" value="835" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SL_Regression_Test-Release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SL_Regression_Test-Release" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SL_Regression_Test-Release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SL_Regression_Test-Release" type="462c0819:PsiDirectoryNode" />
+              <item name="Mission" type="462c0819:PsiDirectoryNode" />
+            </path>
+<<<<<<< HEAD
+            <path>
+              <item name="SL_Regression_Test-Release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SL_Regression_Test-Release" type="462c0819:PsiDirectoryNode" />
+              <item name="Ras" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SL_Regression_Test-Release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SL_Regression_Test-Release" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+=======
+>>>>>>> 1c3ea27b412717663ffc9266c868b15e4311daa3
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mission/homework_Resources_test.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <module name="ras_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Base/login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="common" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ras_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="homework_Resources_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ras_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mission" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mission/homework_Resources_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ras_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="F:/SL/SL_Regression_Test-Release" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="F:/SL/SL_Regression_Test-Release/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ras_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests in Tchpad_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ras_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mission" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Mission/Tchpad_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in homework_Resources_test.py" type="tests" factoryName="Unittests">
+      <module name="ras_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mission" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Mission/homework_Resources_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python tests.Unittests in homework_Resources_test.py" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.homework_Resources_test" />
+      <item itemvalue="Python tests.Unittests in Tchpad_test.py" />
+      <item itemvalue="Python.common" />
+      <item itemvalue="Python.main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.common" />
+        <item itemvalue="Python.homework_Resources_test" />
+        <item itemvalue="Python tests.Unittests in Tchpad_test.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc04b810-5ede-461f-936a-97d32d7ba27f" name="Default" comment="" />
+      <created>1577582298119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577582298119</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_homework_Resources_test_py - 2020.02.26 at 17h 18m 13s.xml">
+      <configuration name="Unittests in homework_Resources_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_homework_Resources_test_py - 2020.02.26 at 17h 18m 45s.xml">
+      <configuration name="Unittests in homework_Resources_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_homework_Resources_test_py - 2020.02.26 at 17h 46m 00s.xml">
+      <configuration name="Unittests in homework_Resources_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_homework_Resources_test_py - 2020.02.26 at 17h 47m 42s.xml">
+      <configuration name="Unittests in homework_Resources_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_homework_Resources_test_py - 2020.02.26 at 17h 52m 22s.xml">
+      <configuration name="Unittests in homework_Resources_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_homework_Resources_test_py - 2020.02.26 at 18h 14m 35s.xml">
+      <configuration name="Unittests in homework_Resources_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_homework_Resources_test_py - 2020.02.26 at 18h 17m 42s.xml">
+      <configuration name="Unittests in homework_Resources_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_homework_Resources_test_py - 2020.02.26 at 18h 20m 25s.xml">
+      <configuration name="Unittests in homework_Resources_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_homework_Resources_test_py - 2020.02.26 at 18h 22m 31s.xml">
+      <configuration name="Unittests in homework_Resources_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_homework_Resources_test_py - 2020.02.26 at 18h 24m 10s.xml">
+      <configuration name="Unittests in homework_Resources_test.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+=======
+    <frame x="506" y="85" width="1351" height="835" extended-state="0" />
+>>>>>>> 1c3ea27b412717663ffc9266c868b15e4311daa3
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11460674" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38259667" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991655" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32962447" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16629213" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3838665" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32962447" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991655" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Mission/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ras/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Getastask.py" />
+    <entry file="file://$USER_HOME$/Desktop/DHB_Manager_Regression_Test(PreRelease)/src/bvt_03_orders_test.py" />
+    <entry file="file://$USER_HOME$/Desktop/DHB_Manager_Regression_Test(PreRelease)/src/Goods/BaseBrandTest.py" />
+    <entry file="file://$USER_HOME$/Desktop/DHB_Manager_Regression_Test(PreRelease)/src/bvt_02_home_test.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/DHB_Manager_Regression_Test(PreRelease)/src/CommonUtilBase.py" />
+    <entry file="file://$USER_HOME$/Desktop/DHB_Manager_Regression_Test(PreRelease)/src/Goods/BaseCategoryTest.py" />
+    <entry file="file://$USER_HOME$/Desktop/DHB_Manager_Regression_Test(PreRelease)/src/bvt_01_login_test.py" />
+    <entry file="file://$PROJECT_DIR$/Base/Base_test.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/47262167/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/Mission/Tchpad.py" />
+    <entry file="file://E:/Python/Python36/Lib/site-packages/requests/api.py" />
+    <entry file="file://$PROJECT_DIR$/ss.py" />
+    <entry file="file://$USER_HOME$/Desktop/ss.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/xml/sax/saxutils.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/request.py" />
+    <entry file="file://$PROJECT_DIR$/email/feedparser.py" />
+    <entry file="file://$PROJECT_DIR$/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email/parser.py" />
+    <entry file="file://$PROJECT_DIR$/email/iterators.py" />
+    <entry file="file://$PROJECT_DIR$/email/generator.py" />
+    <entry file="file://$PROJECT_DIR$/email/header.py" />
+    <entry file="file://$PROJECT_DIR$/email/quoprimime.py" />
+    <entry file="file://$PROJECT_DIR$/email/utils.py" />
+    <entry file="file://$PROJECT_DIR$/email/base64mime.py" />
+    <entry file="file://$PROJECT_DIR$/email/charset.py" />
+    <entry file="file://$PROJECT_DIR$/email/message.py" />
+    <entry file="file://$PROJECT_DIR$/report/2020.2.25.12.5Regression-test-report.html" />
+    <entry file="file://$PROJECT_DIR$/Mission/Stupad.py" />
+    <entry file="file://$PROJECT_DIR$/HTMLTestRunnerCN.py" />
+    <entry file="file://$PROJECT_DIR$/Mission/H_R_test.py" />
+    <entry file="file://$PROJECT_DIR$/Mission/ss.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/yagmail/sender.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/yagmail/message.py" />
+    <entry file="file://E:/untitled1/th.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="171">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+=======
+        <state relative-caret-position="399">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+>>>>>>> 1c3ea27b412717663ffc9266c868b15e4311daa3
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/PY/shishi.py" />
+    <entry file="file://E:/untitled1/sb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/cs/aaa/aaaa.py" />
+    <entry file="file://$PROJECT_DIR$/Mission/Stupad_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-836">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/Login_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="285">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mission/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/SL/SL_Regression_Test-Release/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/SL/SL_Regression_Test-Release/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mission/Tchpad_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2923">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+=======
+        <state relative-caret-position="361">
+          <caret line="157" lean-forward="true" selection-start-line="157" selection-end-line="157" />
+>>>>>>> 1c3ea27b412717663ffc9266c868b15e4311daa3
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/Tch_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mission/Stupad_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="359">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+=======
+        <state relative-caret-position="3705">
+          <caret line="200" column="60" selection-start-line="200" selection-start-column="60" selection-end-line="200" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mission/timg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/Stu_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="107" column="80" selection-start-line="107" selection-start-column="80" selection-end-line="107" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+>>>>>>> 1c3ea27b412717663ffc9266c868b15e4311daa3
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/Stu_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state>
+=======
+        <state relative-caret-position="2983">
+          <caret line="162" column="37" selection-start-line="162" selection-start-column="37" selection-end-line="162" selection-end-column="37" />
+>>>>>>> 1c3ea27b412717663ffc9266c868b15e4311daa3
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/Mission/homework_Resources_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="269" column="54" lean-forward="true" selection-start-line="269" selection-start-column="54" selection-end-line="269" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 1c3ea27b412717663ffc9266c868b15e4311daa3
+  </component>
+</project>
